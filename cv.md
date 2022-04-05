@@ -10,3 +10,4 @@
 * Education : BSU MMF
 * Age: 19
 * Telegram : @shypela
+* English : B1
